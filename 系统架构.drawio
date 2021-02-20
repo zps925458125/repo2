@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T11:56:55.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="9KZv8FPWjQs68cKLG_II" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T11:58:11.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Pi72QiVFLY33c_ZpkHvj" version="14.2.9" type="github">
   <diagram id="KFQVEh0-8qr-ztcSbCtC" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#141414" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         <mxCell id="biUKJLY5KbgdOnn3UpTG-74" value="&lt;font style=&quot;font-size: 18px&quot;&gt;提升机&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="811" y="779" width="119" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="biUKJLY5KbgdOnn3UpTG-75" value="&lt;font style=&quot;font-size: 18px&quot;&gt;掘进机&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="biUKJLY5KbgdOnn3UpTG-75" value="&lt;span style=&quot;font-size: 18px&quot;&gt;......&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="957" y="779" width="115" height="60" as="geometry" />
         </mxCell>
       </root>
