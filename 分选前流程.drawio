@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T02:23:41.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="IM_60PfkW1KYLJPCtkFx" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T03:56:03.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="zWlk8md_BDXvy4tJeVRe" version="14.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -93,7 +93,10 @@
         <mxCell id="Ji8SA3ziWT4KHIKLygUh-31" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="360" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ji8SA3ziWT4KHIKLygUh-32" value="主洗车间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-32" target="Ji8SA3ziWT4KHIKLygUh-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-32" value="带式输送机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="459" y="370" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji8SA3ziWT4KHIKLygUh-36" value="分选煤矸混合物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -144,6 +147,543 @@
         </mxCell>
         <mxCell id="Ji8SA3ziWT4KHIKLygUh-50" value="中煤" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="329" y="910" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-52" target="Ji8SA3ziWT4KHIKLygUh-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-52" value="主洗车间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="1060" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-53" target="Ji8SA3ziWT4KHIKLygUh-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-53" value="原煤" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="1130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-61" value="主洗车间" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-63" target="Ji8SA3ziWT4KHIKLygUh-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-63" value="原煤配晒刮板输送机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="1200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-65" target="Ji8SA3ziWT4KHIKLygUh-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-65" value="原煤脱泥筛" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="1270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-67" target="Ji8SA3ziWT4KHIKLygUh-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-67" value="原煤脱泥筛" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="1340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-71" target="Ji8SA3ziWT4KHIKLygUh-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-71" target="Ji8SA3ziWT4KHIKLygUh-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-71" value="&amp;lt;1mm" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="344.5" y="1415" width="59" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-74" target="Ji8SA3ziWT4KHIKLygUh-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-74" value="煤妮桶" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="1520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-78" target="Ji8SA3ziWT4KHIKLygUh-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-78" value="主选系统混料桶" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="459" y="1427.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-79" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="379" y="1480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-80" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="403.5" y="1407.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-82" target="Ji8SA3ziWT4KHIKLygUh-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="1690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-82" value="重介旋流器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="459" y="1600" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-84" value="介质混合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1480" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-87" value="离心沉降分选" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1650" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-88" target="Ji8SA3ziWT4KHIKLygUh-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-88" target="Ji8SA3ziWT4KHIKLygUh-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-88" value="是否精煤" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="476" y="1690" width="56" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-92" target="Ji8SA3ziWT4KHIKLygUh-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-92" value="溢流口产出精煤" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="459" y="1790" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-93" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1760" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-94" target="Ji8SA3ziWT4KHIKLygUh-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-94" value="底流口出中煤矸石混合物" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="1700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-96" target="Ji8SA3ziWT4KHIKLygUh-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-96" target="Ji8SA3ziWT4KHIKLygUh-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="1885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-96" value="脱介筛脱去介质" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="459" y="1870" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-252" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-98" target="Ji8SA3ziWT4KHIKLygUh-205">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="2060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-98" value="精煤离心机脱水" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="459" y="1950" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-100" value="精煤产品仓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="2422.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-106" target="Ji8SA3ziWT4KHIKLygUh-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="1998.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-106" target="Ji8SA3ziWT4KHIKLygUh-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="1885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-106" value="是否合&lt;br&gt;格介质" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="1851.25" width="70" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-109" value="合介桶&lt;br&gt;循环利用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="1950" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-112" target="Ji8SA3ziWT4KHIKLygUh-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-112" value="稀介桶" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="737" y="1870" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-113" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="1918.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-114" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="1690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-116" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="1860" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-118" target="Ji8SA3ziWT4KHIKLygUh-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925" y="1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-118" value="磁选机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="737" y="1950" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-121" value="&lt;span&gt;稀介泵&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="777" y="1918.75" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-124" target="Ji8SA3ziWT4KHIKLygUh-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="677" y="2045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-124" target="Ji8SA3ziWT4KHIKLygUh-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="782" y="2110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-124" value="是否&lt;br&gt;精矿" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="757" y="2020" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-126" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="2020" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-129" value="尾矿进入煤泥桶" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="737" y="2110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-130" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="782" y="2070" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-131" value="混料泵" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="459" y="1520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-133" target="Ji8SA3ziWT4KHIKLygUh-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-133" value="脱介筛" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="1700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-135" target="Ji8SA3ziWT4KHIKLygUh-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-135" value="再选系统混料桶" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="1700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-137" target="Ji8SA3ziWT4KHIKLygUh-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-137" value="混料泵" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="1700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-139" target="Ji8SA3ziWT4KHIKLygUh-143">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-139" value="旋流器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="1790" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-143" target="Ji8SA3ziWT4KHIKLygUh-146">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="2001.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-143" target="Ji8SA3ziWT4KHIKLygUh-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1165" y="1890.625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-143" value="是否&lt;br&gt;中煤" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1025" y="1860" width="60" height="61.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-146" target="Ji8SA3ziWT4KHIKLygUh-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-146" value="脱介筛" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="1950" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-147" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="1921.25" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-150" target="Ji8SA3ziWT4KHIKLygUh-153">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="2161.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-150" target="Ji8SA3ziWT4KHIKLygUh-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="945" y="2050.625" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="2051" />
+              <mxPoint x="930" y="1800" />
+              <mxPoint x="655" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-150" value="是否&lt;br&gt;矸石" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1025" y="2020" width="60" height="61.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-153" target="Ji8SA3ziWT4KHIKLygUh-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-153" value="矸石带式&lt;br&gt;输送机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="2110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-154" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="2080" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-156" value="矸石仓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="2170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-158" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="2030" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-164" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-161" target="Ji8SA3ziWT4KHIKLygUh-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-161" value="脱介筛" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1130" y="1875.6200000000001" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-162" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1090" y="1870" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-163" target="Ji8SA3ziWT4KHIKLygUh-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-163" value="离心机脱水" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1130" y="1950.0000000000002" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-165" value="中煤产品仓" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1130" y="2035.63" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-167" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;合格介质混合&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="1675" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-168" target="Ji8SA3ziWT4KHIKLygUh-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-168" value="煤泥泵" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="1600" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-170" target="Ji8SA3ziWT4KHIKLygUh-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-170" value="煤泥分级旋流器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="1700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-172" target="Ji8SA3ziWT4KHIKLygUh-176">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-172" value="煤泥分级旋流器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="1790" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-176" target="Ji8SA3ziWT4KHIKLygUh-179">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="1940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="1885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-176" target="Ji8SA3ziWT4KHIKLygUh-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455.5" y="1960" as="sourcePoint" />
+            <mxPoint x="411" y="1960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-176" value="&amp;lt;0.25mm" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="344.5" y="1857.5" width="59" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-179" target="Ji8SA3ziWT4KHIKLygUh-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-179" value="浮选机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="2100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-182" target="Ji8SA3ziWT4KHIKLygUh-187">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-182" value="TBS干扰床&lt;br&gt;分选机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="1950" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-183" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="1860" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-184" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="363.5" y="1918.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-187" target="Ji8SA3ziWT4KHIKLygUh-191">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="2100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-187" target="Ji8SA3ziWT4KHIKLygUh-195">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264.5" y="2045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-187" value="是否&lt;br&gt;精矿" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="344.5" y="2017.5" width="59" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-188" value="密度&lt;br&gt;控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="379" y="1985.62" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-191" target="Ji8SA3ziWT4KHIKLygUh-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-191" value="TBS产品桶" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="2105" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-192" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="379" y="2072.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-195" value="高灰分离旋流器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="199" y="2030" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-196" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="2021.25" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-197" target="Ji8SA3ziWT4KHIKLygUh-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-197" value="TBS精矿泵" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="2170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-199" target="Ji8SA3ziWT4KHIKLygUh-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-199" value="直线筛&lt;br&gt;（一级脱水）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="2230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-201" target="Ji8SA3ziWT4KHIKLygUh-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-201" value="弧形筛&lt;br&gt;（二级脱水）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="2290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-203" target="Ji8SA3ziWT4KHIKLygUh-210">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="2460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-203" value="离心机&lt;br&gt;（三级脱水）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="329" y="2350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-205" target="Ji8SA3ziWT4KHIKLygUh-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="2130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-205" value="精煤带式输送机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="459" y="2422.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-211" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-210" target="Ji8SA3ziWT4KHIKLygUh-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-214" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-210" target="Ji8SA3ziWT4KHIKLygUh-179">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264" y="2437.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-210" value="是否&lt;br&gt;精煤" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="344" y="2410" width="59" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-212" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="403" y="2410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-215" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="2410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-216" value="筛下物、离心液" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="2445" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-217" target="Ji8SA3ziWT4KHIKLygUh-222">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-65" y="2230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-217" value="一段浮选&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="2100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-221" value="添加药剂，调整进气量、浮选系统液位" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="2150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-224" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-222" target="Ji8SA3ziWT4KHIKLygUh-225">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-65" y="2277.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-222" target="Ji8SA3ziWT4KHIKLygUh-232">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-174.5" y="2207.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-222" value="是否&lt;br&gt;精矿" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-94.5" y="2180" width="59" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-225" target="Ji8SA3ziWT4KHIKLygUh-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-225" value="浮选精矿桶" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="2277.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-226" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="2240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-229" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-134.5" y="2180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-232" target="Ji8SA3ziWT4KHIKLygUh-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-232" value="二段浮选" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-240" y="2192.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-238" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-234" target="Ji8SA3ziWT4KHIKLygUh-225">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="2293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-234" target="Ji8SA3ziWT4KHIKLygUh-242">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-195" y="2400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-234" value="是否&lt;br&gt;精矿" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-224.5" y="2265" width="59" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-239" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-165.5" y="2265" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-242" value="浓缩池" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-240" y="2360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-243" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-190" y="2330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-247" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-244" target="Ji8SA3ziWT4KHIKLygUh-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-244" value="压滤机入料泵" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="2360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-249" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-246" target="Ji8SA3ziWT4KHIKLygUh-248">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-65" y="2535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-246" value="压滤机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="2422.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-250" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ji8SA3ziWT4KHIKLygUh-248" target="Ji8SA3ziWT4KHIKLygUh-205">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="2535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-248" value="刮板输送机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="2520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji8SA3ziWT4KHIKLygUh-251" value="过滤水分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="2510" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
